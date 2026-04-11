@@ -17,3 +17,11 @@ Every day, I commit high-resolution maps showing the current liquidity pockets.
 
 ---
 © 2026 TradingWizard.ai | [Twitter](https://x.com/TradingWizard) | [Web](https://tradingwizard.ai)
+
+## 2026-04-11: The Institutional Emigration
+
+**Analysis:** CME Bitcoin Futures Open Interest fell to .2B (14-month low). This is not a decline; it is an emigration to AI-driven perpetual markets. 
+
+**Visual:** [CME vs Perp Alpha](./cme-vs-perp-2026-04-11.jpg)
+
+**Source:** TradingWizard.ai
